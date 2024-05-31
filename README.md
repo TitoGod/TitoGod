@@ -1,4 +1,4 @@
-![Banner](https://github.com/TitoGod/readme/blob/main/Portada%20LinkedIn.png)
+![Banner](https://github.com/TitoGod/TitoGod/blob/main/Portada%20LinkedIn.png)
 
 <h2>👋 &nbsp;Hola! soy Mauro</h2>
 
